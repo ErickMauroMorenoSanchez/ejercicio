@@ -1,7 +1,7 @@
-const urlObtenerUsuarios = 'http://localhost/crud/api/obtenerUsuarios.php';
-const urlAgregarUsuario = 'http://localhost/crud/api/agregarUsuario.php';
-const urlEditarUsuario = 'http://localhost/crud/api/editarUsuario.php';
-const urlBorrarUsuario = 'http://localhost/crud/api/borrarUsuario.php';
+const urlObtenerUsuarios = 'http://localhost/crud_empleados/api/obtenerUsuarios.php';
+const urlAgregarUsuario = 'http://localhost/crud_empleados/api/agregarUsuario.php';
+const urlEditarUsuario = 'http://localhost/crud_empleados/api/editarUsuario.php';
+const urlBorrarUsuario = 'http://localhost/crud_empleados/api/borrarUsuario.php';
 
 let listaEmpleados = [];
 
